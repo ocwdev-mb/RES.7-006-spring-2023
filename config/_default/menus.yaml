@@ -1,0 +1,9 @@
+leftnav:
+- identifier: external--993898756-1680897933080
+  name: The Fundamentals
+  url: https://www.edx.org/course/genetics-part-1
+  weight: 10
+- identifier: external-769774053-1680897964085
+  name: Analysis and Application
+  url: https://www.edx.org/course/genetics-analysis-and-applications
+  weight: 20
